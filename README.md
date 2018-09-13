@@ -12,4 +12,4 @@ Health Check
 
 To save data to db `http://localhost:8080/model`
 
-To get data to db `http://localhost:8080/model/getData`
+To get data from db `http://localhost:8080/model/getData`
